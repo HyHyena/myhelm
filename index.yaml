@@ -2,13 +2,13 @@ apiVersion: v1
 entries:
   dadatachart:
   - apiVersion: v2
-    appVersion: latest
-    created: "2020-02-11T13:44:47.278547+03:00"
+    appVersion: 1.0.1
+    created: "2020-02-14T15:46:31.048074+03:00"
     description: A Helm chart for Kubernetes
-    digest: 0e513b1e3c3f838fddf16ce8977ef4f800d0d59e9168471bed80735698349416
+    digest: 5ea180abf9f69b749ce5e59948eb9cedbf4546ceed346dd678b38c8b33605153
     name: dadatachart
     type: application
     urls:
     - https://niclas784.github.io/myhelm/dadatachart-0.1.0.tgz
     version: 0.1.0
-generated: "2020-02-11T13:44:47.275044+03:00"
+generated: "2020-02-14T15:46:31.035881+03:00"
